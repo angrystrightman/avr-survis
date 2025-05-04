@@ -1,6 +1,8 @@
 define({
 	tagCategories: {
-	  "type": { "description": "type of the paper" }
+	  "type":  { "description": "paper type" },
+	  "era":   { "description": "time period" },
+	  "method":{ "description": "research method" }
 	}
   });
   
